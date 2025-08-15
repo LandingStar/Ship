@@ -1,0 +1,9 @@
+2025-Aug-14 18:01:41
+Computer name:	550A
+Number of cores used in calculation:	16
+Configuration name:	默认
+Project name:	项目(3)
+
+Warnings on last iteration: 
+1. ????????????? :
+	 

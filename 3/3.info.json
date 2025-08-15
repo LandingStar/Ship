@@ -1,0 +1,56 @@
+{
+    "version": 0,
+    "model_name": "pump.SLDASM",
+    "project_name": "项目(3)",
+    "config_name": "默认",
+    "project_path": "C:\\Users\\16329\\OneDrive\\Desktop\\tmp\\ship\\3\\3.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 706,
+        "cells_fluid": 706,
+        "cells_solid": 32941,
+        "cells_fluid_containing_solid": 32
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "18:01:41+0800",
+        "prepare_geometry_total_time": 0,
+        "cpu_time_solver_total": 2,
+        "iteration": 19,
+        "travel": 0.023548823895060265,
+        "phys_time": 1.0,
+        "time_step": 0.021770295875871093,
+        "last_iteration_finished": "18:01:41+0800",
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 806
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [
+            "水",
+            "溶解的气体"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": true,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2024  x64 / 6122 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2024 SP0.1",
+        "computer_name": "550A",
+        "user_name": "16329",
+        "os": "Windows 11 (or higher) (Version 10.0.26100)",
+        "cpu": "AMD Ryzen 7 8745H with Radeon 780M Graphics",
+        "number_of_cores": 16,
+        "memory_avail": 19503,
+        "memory_total": 32061
+    }
+}

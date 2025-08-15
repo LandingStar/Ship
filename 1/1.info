@@ -1,0 +1,52 @@
+Model: pump.SLDASM
+Project name: 项目(1)
+Config name: 默认
+Project path: C:\Users\16329\OneDrive\Desktop\tmp\ship\1\1.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 21877
+    Fluid cells: 21877
+    Solid cells: 21283
+    Fluid cells containing solids: 13006
+
+
+Geometry preparation finished: 17:21:16
+Geometry preparation time: 00:00:01
+Solver CPU time: 00:00:14
+Iterations: 86
+Travels: 1.53747
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 17:21:28
+CPU time per last iteration: 00:00:00
+CPU time left: 00:00:00
+Iterations per 1 travel: 56
+
+Goals
+    Name | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+
+Project details
+    Default fluids: 水
+    Analysis type: Internal
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2024  x64 / 6122 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2024 SP0.1
+    Computer name: 550A
+    User name: 16329
+    Operating system: Windows 11 (or higher) (Version 10.0.26100)
+    Processors: AMD Ryzen 7 8745H with Radeon 780M Graphics
+    Number of cores: 16
+    Memory: 20244 MB / 32061 MB
+
